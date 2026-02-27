@@ -1,5 +1,5 @@
 # aula-2702_02
-### Projetos
+### Projetos: Emanuella, Camila e Ana Luiza
 
 1- Logica de programação e algoritmos:\
 Comandos de Python:
